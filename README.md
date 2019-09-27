@@ -2,17 +2,17 @@
 
 https://www.csdn.net/ CSDN博客
 
-https://www.imooc.com/慕课网
+https://www.imooc.com/ 
 
 https://www.w3cschool.cn/    W3cschool学习网
 
-https://www.runoob.com/菜鸟教程 
+https://www.runoob.com/
 
-https://juejin.im/timeline掘金
+https://juejin.im/timeline
 
-https://ts.xcatliu.com/TS教程
+https://ts.xcatliu.com/
 
-https://123.w3cschool.cn/plk2fiq前端学习汇总
+https://123.w3cschool.cn/plk2fiq
 
 http://www.echojs.com/#down ECHO js
 
@@ -28,9 +28,9 @@ https://www.52pojie.cn/w ^吾爱破解
 
 https://www.bootcdn.cn/vue/ vue在线cdn
 
-https://modao.cc/米墨刀
+https://modao.cc/
 
-https://www.58pic.com/piccate/q千图网
+https://www.58pic.com/piccate/
 
 http://openresty.org/cn/ 
 
@@ -56,9 +56,9 @@ https://standardjs.com/
 
 http://todomvc.com/
 
-http://www.dxzy163.com/d大学资源网
+http://www.dxzy163.com/
 
-https://www.bookstack.cn/小号书栈网
+https://www.bookstack.cn/
 
 http://www.hejizhan.com/html/search/ 
 
