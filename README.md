@@ -1,39 +1,38 @@
 ＃个人收藏的网址
 
-https://www.csdn.net/ 
+https://www.csdn.net/ CSDN博客
 
-https://www.imooc.com/
+https://www.imooc.com/慕课网
 
+https://www.w3cschool.cn/    W3cschool学习网
 
-https://www.w3cschool.cn/
-
-https://www.runoob.com/菜鸟教程
+https://www.runoob.com/菜鸟教程 
 
 https://juejin.im/timeline掘金
 
 https://ts.xcatliu.com/TS教程
 
-https://123.w3cschool.cn/plk2fi 
+https://123.w3cschool.cn/plk2fiq前端学习汇总
 
-http://www.echojs.com/#down
+http://www.echojs.com/#down ECHO js
 
-http://fex.baidu.com/weekly/Fex
+http://fex.baidu.com/weekly/Fex FEX（国外网址）
 
-https://www.w3cplus.com/
+https://www.w3cplus.com/ W3cplup学习网 
 
-https://edu.51cto.com/
+https://edu.51cto.com/ 51CTO
 
-http://www.lanrenmb.com/
+http://www.lanrenmb.com/  米模板
 
-https://www.52pojie.cn/
+https://www.52pojie.cn/w ^吾爱破解
 
-https://www.bootcdn.cn/vue/
+https://www.bootcdn.cn/vue/ vue在线cdn
 
-https://modao.cc/
+https://modao.cc/米墨刀
 
-https://www.58pic.com/piccate/
+https://www.58pic.com/piccate/q千图网
 
-http://openresty.org/cn/
+http://openresty.org/cn/ 
 
 https://www.teambition.com/
 
@@ -57,11 +56,11 @@ https://standardjs.com/
 
 http://todomvc.com/
 
-http://www.dxzy163.com/
+http://www.dxzy163.com/d大学资源网
 
-https://www.bookstack.cn/
+https://www.bookstack.cn/小号书栈网
 
-http://www.hejizhan.com/html/search/
+http://www.hejizhan.com/html/search/ 
 
 https://www.icourse163.org/
 
