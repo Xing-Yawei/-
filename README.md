@@ -38,7 +38,7 @@ https://www.teambition.com/
 
 https://www.layui.com/doc/
 
-https://www.swiper.com.cn/swiper中文网
+https://www.swiper.com.cn/  
 
 https://www.lodashjs.com/
 
